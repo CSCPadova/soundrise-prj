@@ -52,6 +52,8 @@ The vowels are extracted through an algorithm of Linear Predictive Coding (LPC) 
 ## Video Demostration
 <video controls src="archive/video/2023-soundrise2.0-demo.mp4" title="Title"></video>
 
+[link to the video](archive/video/2023-soundrise2.0-demo.mp4)
+
 ### About repository
 This repository serves as a tool for preserving the application and research project.  
 The repository follows the guideline of the _Multilevel Dynamic Preservation_ (MDP) model ([https://www.frontiersin.org/articles/10.3389/frsip.2023.1183294/full](https://www.frontiersin.org/articles/10.3389/frsip.2023.1183294/full))  
