@@ -10,18 +10,52 @@ During these years, a number of prototypes have been developed and then shelved.
 **Date Created** 2012  
 **Last Update** 2023  
 
-![SOUNDRISE 2.0](archive/photo/2023-soundrise2.0.png)
+<img src="archive/photo/2023-soundrise2.0.png" alt="SOUNDRISE 2.0" height="500">
+
+## Old Versions
+| Year                       | Link                       | Img                       |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| 2012 | [__Giusto__](./archive/past_versions/2012-Giusto/)  | <img src="archive/photo/2012-console di controllo di SounRise.png" width="150"> |
+| 2012 | [__Randon__](./archive/past_versions/2012-Randon) | <img src="archive/photo/2012-interfaccia b.png" width="150"> |
+| 2023 | [__Turetta__](./archive/past_versions/2023-Turetta) | <img src="archive/photo/2023-nuova interfaccia.png" width="150"> |
 
 ## Technical Notes
 
+<details>
 
-#### About repository
+<!-- <summary>Technical Notes</summary> -->
+
+### How soundrise works
+
+**Flowchart - Audio feature extraction to graphical feedback** 
+The application captures audio features from your voice using the device’s microphone and utilizes them to generate graphical feedback.
+
+<img src="archive/data/2023-flowchart-audiofeature2graphic.png" alt="Audio feature extraction to graphical feedback" height="500">
+
+The audio features of your voice are mapped to the movement of a sun on the screen.
+
+<img src="archive/data/2012-mapping-audiofeature2graphic.png" alt="Mapping - Audio feature extraction to graphical feedback" height="200">
+
+With the timber we consider only the five italian vowels
+
+__link vowels-colors__  
+[a] ⇒ rosso;  
+[O] ⇒ arancione;   
+[E] ⇒ verde;  
+[i] ⇒ blu;  
+[u] ⇒ grigio  
+
+The vowels are extracted through an algorithm of Linear Predictive Coding (LPC) using defined vowel formants
+
+<img src="archive/data/2023-instruction-formants-vowel.png" alt="Vowel format" height="70">
+
+## Video Demostration
+<video controls src="archive/video/2023-soundrise2.0-demo.mp4" title="Title"></video>
+
+### About repository
 This repository serves as a tool for preserving the application and research project.  
 The repository follows the guideline of the _Multilevel Dynamic Preservation_ (MDP) model ([https://www.frontiersin.org/articles/10.3389/frsip.2023.1183294/full](https://www.frontiersin.org/articles/10.3389/frsip.2023.1183294/full))  
 
 
-## Old Versions
-- 2012 [__Giusto__](https://github.com/zGiada/soundrise-application/blob/main/2012_Giusto/README.md)
-- 2012 [__Randon__](https://github.com/zGiada/soundrise-application/blob/main/2012_Randon/README.md)
-- 2023 [__Turetta__](https://github.com/zGiada/soundrise-application/blob/main/2023_Turetta/README.md)
+</details>
 

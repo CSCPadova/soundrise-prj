@@ -24,4 +24,4 @@ __link vowels-colors__
 ## experience
 **Soundrise 2.0 Web Application - new interface In ReactJs**  
 ![Soundrise 2.0 Web Application - new interface in ReactJs](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/new%20interface.png)  
-[DEMO Video](https://github.com/zGiada/soundrise-application/blob/main/2023_Zuccolo+fila/experience/soundrise2.0-demo.mp4)
+
