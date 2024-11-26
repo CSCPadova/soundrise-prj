@@ -5,23 +5,16 @@
 This application is the result of years of study and research by the CSC (Centro di Sonologia Computazionale). For years, the CSC has aimed to promote learning activities that encourage children, by considering physical actions as an integral part of cognition, through the use of technological enhancement.  
 During these years, a number of prototypes have been developed and then shelved. The last update of Soundrise aims to develop an application maintainable over time, undertaking a reactivation process previously designed at CSC for the preservation and reactivation of artefacts.  
   
-**Authors**: _Giada Zuccolo_; _Riccardo Fila_; _Stefano Giusto_; _Marco Randon_; _Gabriele Turetta_; _Alessandro Fiordelmondo_; _Antonio Rodà_; _Federico Avanzini_; _Sergio Canazza_; _Serena Zanolla_; _Raul Masu_
+**Website** https://soundrise-82999.web.app/ 
+
+**Authors**: _Giada Zuccolo_ (developer); _Riccardo Fila_ (developer); _Stefano Giusto_ (developer); _Marco Randon_ (developer); _Gabriele Turetta_ (developer); _Alessandro Fiordelmondo_ (supervisor, repository); _Antonio Rodà_ (supervisor); _Federico Avanzini_ (supervisor); _Sergio Canazza_ (superivsor); _Serena Zanolla_ (supervisor); _Raul Masu_ (supervisor)
 
 **Date Created** 2012  
-**Last Update** 2023  
+**Last Update** 2024  
 
-<img src="archive/photo/2023-soundrise2.0.png" alt="SOUNDRISE 2.0" height="500">
-
-## Old Versions
-| Year                       | Link                       | Img                       |
-|:-------------------------------:|:-------------------------------:|:-------------------------------:|
-| 2012 | [__Giusto__](./archive/past_versions/2012-Giusto/)  | <img src="archive/photo/2012-console di controllo di SounRise.png" width="150"> |
-| 2012 | [__Randon__](./archive/past_versions/2012-Randon) | <img src="archive/photo/2012-interfaccia b.png" width="150"> |
-| 2023 | [__Turetta__](./archive/past_versions/2023-Turetta) | <img src="archive/photo/2023-nuova interfaccia.png" width="150"> |
+<img src="archive/images/2023-soundrise2.0.png" alt="SOUNDRISE 2.0" height="500">
 
 ## Technical Notes
-
-<details>
 
 <!-- <summary>Technical Notes</summary> -->
 
@@ -53,8 +46,6 @@ The vowels are extracted through an algorithm of Linear Predictive Coding (LPC) 
 <video controls src="archive/video/2023-soundrise2.0-demo.mp4" title="Title"></video>
 
 [link to the video](archive/video/2023-soundrise2.0-demo.mp4)
-
-</details>
 
 ## Bibliography
 
@@ -99,6 +90,14 @@ The vowels are extracted through an algorithm of Linear Predictive Coding (LPC) 
 | date | 2023 |
 | type | __thesis__ |  
 | link | [https://hdl.handle.net/20.500.12608/60413](https://hdl.handle.net/20.500.12608/60413)|
+| bibtex | |
+####
+| title | __Longevity in NIME research: a case study using time-based media art preservation models__ |
+| --- | --- |
+| author | __Alessandro Fiordelmondo, Giada Zuccolo, Sergio Canazza, and Raul Masu__ |
+| date | 2024 |
+| type | __conference paper__ |  
+| link | [https://zenodo.org/records/13904858](https://zenodo.org/records/13904858)|
 | bibtex | |
 
 </details>
